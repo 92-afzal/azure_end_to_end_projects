@@ -1,0 +1,3 @@
+USE AdventureWorksLT2019;
+
+GRANT SELECT ON SCHEMA::dbo TO mrk;
